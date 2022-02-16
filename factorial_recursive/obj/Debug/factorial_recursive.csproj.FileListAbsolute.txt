@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\bin\Debug\factorial_recursive.exe.config
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\bin\Debug\factorial_recursive.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\bin\Debug\factorial_recursive.pdb
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\obj\Debug\factorial_recursive.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\obj\Debug\factorial_recursive.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\obj\Debug\factorial_recursive.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\factorial_recursive\obj\Debug\factorial_recursive.pdb
